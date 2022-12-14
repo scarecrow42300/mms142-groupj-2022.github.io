@@ -7,6 +7,7 @@ The repository contains the GitHub page's code, project boards, and wiki for the
 
 ## Active Team Members
 - Tomacruz, Jana Denise
+- Tupan, Charleigh Belle
 - Umali, Marianne
 - Velo, Christian Paul
 - Verzola, Pio Jr
