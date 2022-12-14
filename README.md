@@ -3,7 +3,6 @@ This is GitHub page is made in fulfillment of the MMS 142 (Internet Technologies
 
 The repository contains the GitHub page's code, project boards, and wiki for the detailed report on the topic. Subsequently, this repository includes CSS and HTML to run the webpage.
 
-_Prompt: A photorealistic illustration of a robot painting a human on a canvas._
 
 **Submitted by Group J.** 
 
