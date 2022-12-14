@@ -17,4 +17,4 @@ The repository contains the GitHub page's code, project boards, and wiki for the
 
 School year 2022 - 2023
 
-1st Trimester (December 2022)
+**1st Trimester (December 2022)**
