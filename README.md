@@ -1,6 +1,8 @@
 # AI Image Generation and Creative Industries
 This is a project made in fulfillment of the MMS 142 (Internet Technologies and Web Development) Group Report on Disruptive Innovation: AI Image Generation and Creative Industries. To summarize, Artificial Intelligence generated art is where artwork is assembled through synthesizing and inferring information demonstrated by machines. It stems from filtered datasets and built-in algorithms that employ AI to yield visual imagery based on text prompts by the user. Thus, can machines be truly creative? At what point will AI systems begin producing autonomous art that deserves to be called artists in their own right? What are the current forefront AI applications standing as the powerhouses of this new creative style? 
 
+![AI Vs. Human](Assets/IMG/AI and Human.jpg)
+
 The repository contains the GitHub page's code, project boards (for Content and Website), discussion boards, and a wiki for the detailed report on the topic. Subsequently, this repository includes HTML, Markdown, and CSS to run the webpage. The sections are as follows:
 - [Code](https://github.com/JanaDenise/mms142-groupj-2022.github.io)
 - [Discussions](https://github.com/JanaDenise/mms142-groupj-2022.github.io/discussions)
