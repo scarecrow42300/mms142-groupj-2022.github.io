@@ -11,6 +11,7 @@ The repository contains the GitHub page's code, project boards (for Content and 
 - [Wiki](https://github.com/JanaDenise/mms142-groupj-2022.github.io/wiki)
 
 ## Active Team Members
+- Timon, Patricia Mae
 - Tomacruz, Jana Denise
 - Torres, Aleah
 - Tupan, Charleigh Belle
