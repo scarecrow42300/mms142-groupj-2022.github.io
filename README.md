@@ -20,6 +20,7 @@ The repository contains the GitHub page's code, project boards (for Content and 
 - Verzola, Pio Jr
 - Villanueva, Cyrille
 - Yacat, Ma. Xenia
+- Yango, Peter Samuel 
 
 # Credentials
 **School year 2022 - 2023**
